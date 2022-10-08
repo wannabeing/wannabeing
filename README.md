@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=wannabeing&fontAlign=70&rotate=13&fontAlignY=25&desc=Front&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=wannabeing&fontAlign=70&rotate=13&fontAlignY=25&desc=Junior%20Fron-End&descAlign=70.&descAlignY=44)
 
 #### <p align="center">🚀 관심있는 프레임워크 & 라이브러리</p>
 
