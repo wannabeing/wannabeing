@@ -20,8 +20,9 @@
 #### <p align="center"><a href="https://velog.io/@wannabeing" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a></p>
 <br>
 
+<!--
 #### <p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannabeing&langs_count=5&layout=compact)</p>
 #### <p align="center">![](https://github-readme-stats.vercel.app/api?username=wannabeing&show_icons=true&theme=react)</p>
-
+-->
 
 
