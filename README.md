@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=wannabeing&fontAlign=70&rotate=13&fontAlignY=25&desc=Junior%20Fron-End&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=wannabeing&fontAlign=70&rotate=13&fontAlignY=25&desc=Junior%20Developer&descAlign=70.&descAlignY=44)
 
+<!--
 #### <p align="center">🚀 관심있는 프레임워크 & 라이브러리</p>
 
 #### <p align="center">![node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933) ![](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -15,6 +16,8 @@
 
 #### <p align="center">![](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)</p>
 <br>
+
+-->
 
 #### <p align="center">🪄 블로그</p>
 #### <p align="center"><a href="https://velog.io/@wannabeing" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a></p>
